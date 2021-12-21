@@ -8,11 +8,6 @@ use App\Configs\CatalogConfig;
  *
  * @author jan
  */
-/**
- * Опросы на сайте
- *
- * @author mac-proger
- */
 class SiteQuestionnaires {
     const TABLE = 'site_questionnaires';
     
